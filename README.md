@@ -8,4 +8,4 @@ The plain chant will be re-typeset using Gregorio, a software for writing Gregor
 
 Editing will be done in Canva. I will be seeking a printing company who can do printing for soft cover leather books with a print volume of 1000 copies.
 
-**Technology:** Gregorio/GABC, LaTeX
+**Technology/Software:** Gregorio/GABC, LaTeX, Canva
