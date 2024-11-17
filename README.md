@@ -20,7 +20,9 @@ Editing will be done in Canva. I will be seeking a printing company who can do p
 [GregoBase](https://gregobase.selapa.net/)
 
 ### Latin
-[The Little Office of the Blessed Virgin Mary of Mt. Carmel](http://traditionalcarmelite.com/pray/littleoffice/)
+[The Little Office of the Blessed Virgin Mary of Mt. Carmel](https://web.archive.org/web/20210616013827/http://traditionalcarmelite.com/pray/littleoffice/) + ([archived sitemap](https://web.archive.org/web/sitemap/http://traditionalcarmelite.com))
+
+(Broken link) [The Little Office of the Blessed Virgin Mary of Mt. Carmel](http://traditionalcarmelite.com/pray/littleoffice/)
 
 ### English
 
