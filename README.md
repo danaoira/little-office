@@ -39,6 +39,8 @@ Little Office of the Blessed Virgin Mary by Catholic Harbor of Faith and Morals
 
 [Les évangiles des dimanches et fêtes de l'année](https://archive.org/details/lesvangilesdes00cath/page/n41/mode/thumb)
 
+[Albrecht Dürer : Original-Kupferstiche und Holzschnitte](https://archive.org/details/albrechtdurerori00dure/page/53/mode/1up)
+
 ## Planning
 
 ```
