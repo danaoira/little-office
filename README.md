@@ -35,6 +35,10 @@ Little Office of the Blessed Virgin Mary by Catholic Harbor of Faith and Morals
 
 [New Testament Illustrations by Julius Schnorr von Carolsfeld](https://victorianweb.org/art/illustration/german/schnorr/nt.html)
 
+[Christ's Kingdom on Earth](https://archive.org/details/ChristsKingdomOnEarth/page/27/mode/thumb)
+
+[Les évangiles des dimanches et fêtes de l'année](https://archive.org/details/lesvangilesdes00cath/page/n41/mode/thumb)
+
 ## Planning
 
 ```
